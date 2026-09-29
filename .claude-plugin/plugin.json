@@ -5,6 +5,8 @@
   "author": { "name": "EyeDebugger Authors" },
   "homepage": "https://github.com/EyeDebugger/eyedebugger",
   "repository": "https://github.com/EyeDebugger/claude-plugin",
+  "supportUrl": "https://github.com/EyeDebugger/eyedebugger/issues",
+  "documentationUrl": "https://github.com/EyeDebugger/eyedebugger#install",
   "license": "Apache-2.0",
   "keywords": ["debugger", "debugging", "dap", "cli"]
 }
