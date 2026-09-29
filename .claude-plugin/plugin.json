@@ -1,12 +1,21 @@
 {
   "name": "eyedbg",
   "version": "0.2.1",
-  "description": "Debug running .NET, Python, C, C++, Rust and Go programs from the shell with eyedbg: breakpoints, stepping, locals, eval and exception stops. Requires the eyedbg binary on PATH.",
-  "author": { "name": "EyeDebugger Authors" },
+  "description": "Let your agent debug running .NET, Python, C, C++, Rust and Go programs from the shell with eyedbg: breakpoints, stepping, locals, eval and exception stops. You can join the same live session from VS Code to co-debug, and take or hand back control. Requires the eyedbg binary on PATH.",
+  "author": {
+    "name": "EyeDebugger Authors"
+  },
   "homepage": "https://github.com/EyeDebugger/eyedebugger",
   "repository": "https://github.com/EyeDebugger/claude-plugin",
   "supportUrl": "https://github.com/EyeDebugger/eyedebugger/issues",
   "documentationUrl": "https://github.com/EyeDebugger/eyedebugger#install",
   "license": "Apache-2.0",
-  "keywords": ["debugger", "debugging", "dap", "cli"]
+  "keywords": [
+    "debugger",
+    "debugging",
+    "dap",
+    "cli",
+    "vscode",
+    "co-debugging"
+  ]
 }

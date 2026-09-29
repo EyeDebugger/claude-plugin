@@ -1,12 +1,16 @@
 {
   "name": "eyedebugger",
-  "owner": { "name": "EyeDebugger Authors" },
-  "metadata": { "description": "EyeDebugger: the eyedbg agent skill." },
+  "owner": {
+    "name": "EyeDebugger Authors"
+  },
+  "metadata": {
+    "description": "EyeDebugger: the eyedbg agent skill."
+  },
   "plugins": [
     {
       "name": "eyedbg",
       "source": "./",
-      "description": "Agent skill for eyedbg, the AI-native CLI debugger. Requires the eyedbg binary on PATH.",
+      "description": "Let your agent debug running .NET, Python, C, C++, Rust and Go programs from the shell with eyedbg: breakpoints, stepping, locals, eval and exception stops. You can join the same live session from VS Code to co-debug, and take or hand back control. Requires the eyedbg binary on PATH.",
       "homepage": "https://github.com/EyeDebugger/eyedebugger",
       "license": "Apache-2.0"
     }
