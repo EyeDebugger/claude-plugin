@@ -9,5 +9,6 @@ plugin. It needs the `eyedbg` binary on `PATH`; install that first (see the Inst
 /plugin install eyedbg@eyedebugger
 ```
 
-`skills/eyedbg/SKILL.md` is a copy of `skill/eyedbg/SKILL.md` in the main repository, refreshed at
-each eyedbg release. Report problems with the skill there. Apache-2.0.
+`skills/eyedbg/SKILL.md` is a small loader: it has the agent run `eyedbg skill print`, which prints
+the guide embedded in the installed binary, so the guide always matches your eyedbg version and this
+plugin rarely needs an update. Report problems with the skill in the main repository. Apache-2.0.
