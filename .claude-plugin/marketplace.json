@@ -11,7 +11,7 @@
       "name": "eyedbg",
       "source": "./",
       "description": "Let your agent debug running .NET, Python, C, C++, Rust and Go programs from the shell with eyedbg: breakpoints, stepping, locals, eval and exception stops. You can join the same live session from VS Code to co-debug, and take or hand back control. Requires the eyedbg binary on PATH.",
-      "homepage": "https://eyedbg.izzat.dev",
+      "homepage": "https://eyedbg.izzat.dev/",
       "license": "Apache-2.0"
     }
   ]
